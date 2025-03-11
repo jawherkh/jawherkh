@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jawher</h1>
-<h3 align="center">A passionate ML Engineer from Tunisia</h3>
+<h3 align="center">A passionate AI Engineer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawherkh&label=Profile%20views&color=0e75b6&style=flat" alt="jawherkh" /> </p>
 
