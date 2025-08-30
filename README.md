@@ -62,16 +62,12 @@ Leading backend/API development for intelligent legal and educational platforms
 
 <br/>  
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jawherkh&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+## 📈 GitHub Stats
+![GitHub Stats](https://github.com/jawherkh/jawherkh/blob/main/profile-3d-contrib/profile-gitblock.svg)
 
-</td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawherkh&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
 
 <br/>  
 
@@ -87,5 +83,4 @@ Leading backend/API development for intelligent legal and educational platforms
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
