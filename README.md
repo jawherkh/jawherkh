@@ -64,7 +64,8 @@ Leading backend/API development for intelligent legal and educational platforms
 
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github.com/jawherkh/jawherkh/blob/main/profile-3d-contrib/profile-gitblock.svg)
+![3D GitHub Contributions](profile-3d-contrib/profile-gitblock.svg)
+
 
 
 
