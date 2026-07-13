@@ -1,87 +1,58 @@
-## Hey 👋, I'm Jawher !  
-  
+<div align="center">
 
-<a href="https://github.com/jawherkh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/jawherkh12" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/jawher-khalifa/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=AAAAAA&center=true&vCenter=true&width=560&lines=CTO+%40+DrugIT;GraphRAG+%2F+multi-agent+systems;RL+research+%40+QCRI;building+quietly" alt="typing" />
 
+</div>
 
+<br/>
 
-### Glad to see you here!  
-👋 Hi, I’m Jawher Khalifa — an AI engineer and full-stack developer with a strong focus on building scalable, intelligent systems. From startups to research labs, I’ve designed backend infrastructures, AI pipelines, and agent-based systems that power applications in legal tech, biotech, and education.
+**Jawher Khalifa** — building systems that reason over knowledge graphs, not just retrieve from them.
 
-⚙️ I specialize in creating robust APIs, LLM-based agents, and knowledge-driven systems using tools like LangChain, Neo4j, and FastAPI, often integrating cutting-edge LLM models or custom fine-tuned models. I enjoy solving problems at the intersection of machine learning, backend engineering, and real-world applications.
+Co-founder / CTO at [DrugIT](https://drugit.live), where I run the architecture behind two pharma AI platforms: **Foenix** (drug formulation assistant) and **Mythik** (multi-agent R&D simulation suite) — both on a knowledge graph over Neo4j/Qdrant, deployed on GCP. RL research at QCRI. ML engineering at Ubotica. Engineering degree at INSAT, wrapping up 2027.
 
-🚀 Whether it’s deploying a Graph RAG pipeline for drug discovery, building multi-agent design tools, or crafting seamless legal reasoning interfaces, I focus on shipping systems that are clean, efficient, and production-ready.
+I don't ship demos. I ship the thing that has to stay up.
 
-🛠️ Currently, I’m working on:
+<br/>
 
-Scaling FormulAI at DrugIT, an AI-driven drug manufacturing assistant
+### stack
 
-Experimenting with MoE and 3D Transformers in research
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,fastapi,gcp,docker,ts,nextjs,redis,flask,linux&theme=dark" />
+<img src="https://img.shields.io/badge/Neo4j-000000?style=for-the-badge&logo=neo4j&logoColor=AAAAAA" height="48" />
+</div>
 
-Leading backend/API development for intelligent legal and educational platforms
+<br/>
 
-🧪 I’m always excited to connect with other builders, researchers, and curious minds!  
-  
+Agentic systems · GraphRAG & temporal knowledge graphs · RL with verifiable rewards · distributed GPU inference
 
-<br/>  
+<br/>
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=jawherkh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=AAAAAA&text_color=888888&icon_color=666666" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jawherkh&theme=tokyonight&hide_border=true&background=00000000&stroke=00000000&ring=AAAAAA&fire=AAAAAA&currStreakLabel=AAAAAA" height="165" />
 
+</div>
 
+<div align="center">
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-</div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawherkh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=AAAAAA&text_color=888888" height="165" />
+<img src="https://github-profile-trophy.vercel.app/?username=jawherkh&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" height="165" />
 
-<br/>  
+</div>
 
+<div align="center">
 
-## 📈 GitHub Stats
-![3D GitHub Contributions](profile-3d-contrib/profile-gitblock.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jawherkh&theme=tokyo-night&hide_border=true&bg_color=00000000&color=AAAAAA&line=888888&point=FFFFFF" width="100%" />
 
+</div>
 
+<br/>
 
+<div align="center">
 
+<a href="https://linkedin.com/in/jawher-khalifa/"><img src="https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=AAAAAA" /></a>
+<a href="https://twitter.com/jawherkh12"><img src="https://img.shields.io/badge/twitter-000000?style=flat-square&logo=twitter&logoColor=AAAAAA" /></a>
+<a href="https://jawher.dev"><img src="https://img.shields.io/badge/jawher.dev-000000?style=flat-square&logo=todoist&logoColor=AAAAAA" /></a>
 
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=jawherkh&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-
+</div>
