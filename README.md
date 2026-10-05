@@ -4,6 +4,10 @@
 
 </div>
 
+<div align="center">
+  <img src="jk-donut-banner.gif" width="100%" alt="JK tumbling donut-style ASCII banner" />
+</div>
+
 <br/>
 
 **Jawher Khalifa** — building systems that reason over knowledge graphs, not just retrieve from them.
